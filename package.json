@@ -10,8 +10,6 @@
     "lucide-react": "^0.394.0",
     "pdf-lib": "^1.17.1",
     "pdfjs-dist": "^4.3.136",
-    "pptxgenjs": "^3.12.0",
-    "puppeteer": "^22.11.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-konva": "^18.2.10",
